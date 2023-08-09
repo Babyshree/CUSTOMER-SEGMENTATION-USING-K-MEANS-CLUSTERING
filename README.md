@@ -1,4 +1,4 @@
-# customer_shopping_analysis
+# customer_shopping_classification
 The customer shopping analysis is for the "Classification of Datasets using K-Means Clustering" project involves the application of the K-Means clustering algorithm to classify datasets into distinct clusters. K-Means is an unsupervised machine learning algorithm commonly used for clustering similar data points together. This project aims to demonstrate how K-Means can be utilized for dataset classification.
 K-Means Clustering
 Provide a brief explanation of the K-Means clustering algorithm and its functioning. Describe how it works and its applications in general.
